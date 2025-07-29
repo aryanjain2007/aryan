@@ -105,6 +105,7 @@ Requires valid letter grades (S, A, B, C, D, E, F, N)
 
 No file saving or data persistence (session-based only)
 
+powerpoint presentation: https://prezi.com/view/8TXeHoynS8pwSnFFHcLA/
 
 
 
@@ -114,4 +115,4 @@ No file saving or data persistence (session-based only)
 
 
 
-Ask ChatGPT
+
